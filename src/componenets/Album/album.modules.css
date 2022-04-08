@@ -1,0 +1,15 @@
+.photo-color > img {
+    height: 50px;
+    width: 50px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.photo-color {
+    padding: 25px 20px 25px;
+    animation: color-block 3s 1;
+}
+@keyframes color-block {
+    0%{
+        padding-top: 1000px;
+    }
+}

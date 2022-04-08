@@ -1,0 +1,9 @@
+.photos-page{
+    background: url("https://cdn.wallpapersafari.com/63/52/AaWb1U.jpg");
+    height: 100vh;
+    padding-bottom: 50px;
+}
+.form-block{
+    display: flex;
+    justify-content: center;
+}

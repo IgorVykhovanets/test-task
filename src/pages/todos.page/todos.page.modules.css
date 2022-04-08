@@ -1,0 +1,13 @@
+.todos-page{
+    background: url("https://wallpapercave.com/wp/wp3992894.jpg") no-repeat center/cover;
+    height: 100vh;
+}
+.form-todos-block{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.todos-block{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,15 @@
+.home-page-block{
+    display: flex;
+    justify-content: space-between;
+}
+.img-home-block > img{
+    width: 50vw;
+    height: 100vh;
+}
+.menu-home-page{
+    width: 100vh;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
